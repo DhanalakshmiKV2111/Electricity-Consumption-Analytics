@@ -1,0 +1,501 @@
+﻿HOUSE ID,CITY,MONTH,APPLIANCES,UNITS_CONSUMED,COST_INR,PEAK HOUR
+H082,Hyderabad,Feb,TV,26,208,Yes
+H020,Chennai,Mar,Refrigerator,52,416,No
+H082,Hyderabad,Jun,Refrigerator,120,960,No
+H020,Bangalore,May,Fan,97,776,No
+H017,Chennai,Jan,Refrigerator,24,192,No
+H120,Chennai,Feb,Refrigerator,139,1112,Yes
+H080,Chennai,Mar,Refrigerator,72,576,No
+H034,Bangalore,Mar,Fan,73,584,Yes
+H073,Hyderabad,Jan,AC,119,952,No
+H106,Chennai,May,AC,44,352,No
+H094,Hyderabad,Jun,AC,92,736,No
+H065,Bangalore,Apr,Fan,23,184,No
+H113,Chennai,Jan,Fan,88,704,No
+H056,Chennai,May,TV,72,576,No
+H037,Chennai,May,Washing Machine,132,1056,Yes
+H056,Chennai,May,Washing Machine,48,384,No
+H010,Hyderabad,Apr,Washing Machine,68,544,Yes
+H067,Bangalore,Jan,TV,32,256,No
+H045,Hyderabad,Jan,Refrigerator,119,952,No
+H069,Bangalore,Feb,Refrigerator,66,528,Yes
+H088,Hyderabad,Jun,AC,79,632,Yes
+H008,Hyderabad,Feb,AC,77,616,Yes
+H067,Hyderabad,Mar,TV,74,592,No
+H070,Hyderabad,Feb,Refrigerator,66,528,Yes
+H016,Hyderabad,Apr,Fan,41,328,Yes
+H080,Chennai,Mar,TV,44,352,No
+H027,Bangalore,May,Fan,135,1080,Yes
+H082,Hyderabad,Feb,Refrigerator,27,216,No
+H036,Bangalore,May,Fan,52,416,Yes
+H087,Chennai,Feb,Fan,22,176,No
+H108,Bangalore,Apr,Refrigerator,119,952,Yes
+H115,Bangalore,Apr,Washing Machine,75,600,Yes
+H050,Chennai,Jan,AC,31,248,No
+H049,Hyderabad,Feb,Fan,51,408,No
+H058,Chennai,May,AC,121,968,Yes
+H111,Hyderabad,Feb,Fan,85,680,Yes
+H031,Hyderabad,Mar,AC,54,432,No
+H048,Hyderabad,Feb,TV,99,792,No
+H004,Hyderabad,Apr,Refrigerator,72,576,No
+H092,Hyderabad,Feb,AC,122,976,No
+H037,Hyderabad,Apr,TV,78,624,Yes
+H113,Bangalore,Mar,Washing Machine,58,464,No
+H011,Chennai,Apr,Refrigerator,41,328,Yes
+H050,Hyderabad,May,TV,113,904,Yes
+H117,Chennai,Mar,TV,23,184,No
+H033,Chennai,Feb,Refrigerator,63,504,Yes
+H031,Hyderabad,Jan,AC,54,432,Yes
+H070,Hyderabad,Apr,Fan,27,216,No
+H012,Hyderabad,Feb,Refrigerator,48,384,No
+H038,Chennai,Apr,TV,120,960,No
+H070,Bangalore,Jan,TV,125,1000,Yes
+H084,Chennai,Apr,TV,124,992,Yes
+H013,Bangalore,Mar,Washing Machine,74,592,Yes
+H062,Hyderabad,Mar,Refrigerator,59,472,Yes
+H113,Bangalore,Mar,TV,106,848,No
+H081,Chennai,Mar,AC,102,816,Yes
+H082,Hyderabad,Apr,Washing Machine,143,1144,No
+H037,Hyderabad,Jun,Washing Machine,27,216,No
+H040,Chennai,Mar,Washing Machine,73,584,Yes
+H021,Hyderabad,Jun,Fan,40,320,No
+H109,Bangalore,Jun,Washing Machine,57,456,No
+H117,Chennai,Apr,Fan,26,208,Yes
+H047,Chennai,Mar,Refrigerator,113,904,No
+H073,Hyderabad,May,Washing Machine,47,376,Yes
+H115,Hyderabad,Apr,AC,30,240,No
+H075,Chennai,May,TV,69,552,Yes
+H109,Chennai,May,Refrigerator,43,344,No
+H107,Bangalore,Jan,Washing Machine,137,1096,No
+H116,Bangalore,Mar,TV,23,184,No
+H102,Hyderabad,Feb,Refrigerator,64,512,Yes
+H069,Chennai,May,AC,67,536,No
+H091,Bangalore,May,Washing Machine,74,592,No
+H009,Chennai,Feb,AC,36,288,Yes
+H003,Chennai,Mar,TV,30,240,Yes
+H065,Bangalore,Jan,Washing Machine,61,488,Yes
+H109,Bangalore,Mar,AC,133,1064,No
+H021,Hyderabad,Jun,AC,113,904,Yes
+H079,Bangalore,Mar,TV,81,648,Yes
+H026,Bangalore,Mar,Refrigerator,71,568,Yes
+H042,Hyderabad,May,Fan,137,1096,No
+H070,Chennai,Mar,Washing Machine,142,1136,No
+H049,Hyderabad,Jun,Refrigerator,129,1032,No
+H068,Bangalore,Apr,TV,144,1152,No
+H017,Hyderabad,May,Refrigerator,132,1056,Yes
+H010,Bangalore,Jun,TV,20,160,No
+H006,Hyderabad,Mar,TV,79,632,Yes
+H084,Hyderabad,May,TV,110,880,Yes
+H008,Bangalore,Jan,Refrigerator,79,632,No
+H089,Hyderabad,Mar,Fan,28,224,Yes
+H081,Bangalore,Apr,TV,134,1072,Yes
+H098,Chennai,Feb,Washing Machine,104,832,Yes
+H072,Bangalore,Mar,Fan,109,872,No
+H101,Chennai,Jan,AC,118,944,No
+H009,Chennai,Jun,Washing Machine,32,256,Yes
+H037,Chennai,Mar,AC,73,584,No
+H056,Chennai,Feb,TV,72,576,No
+H021,Bangalore,May,Fan,115,920,Yes
+H047,Bangalore,Apr,Refrigerator,30,240,No
+H093,Chennai,May,Refrigerator,39,312,Yes
+H069,Bangalore,May,Fan,64,512,No
+H045,Bangalore,Apr,Refrigerator,44,352,Yes
+H087,Bangalore,Jun,Fan,43,344,Yes
+H047,Chennai,Feb,TV,144,1152,No
+H052,Chennai,Jun,Washing Machine,20,160,No
+H108,Chennai,May,Refrigerator,103,824,Yes
+H111,Chennai,Jun,Fan,97,776,No
+H119,Bangalore,Jun,Washing Machine,112,896,Yes
+H084,Hyderabad,Feb,Washing Machine,68,544,Yes
+H045,Chennai,Jun,AC,125,1000,Yes
+H014,Hyderabad,Feb,Washing Machine,49,392,Yes
+H082,Bangalore,Mar,Fan,96,768,No
+H105,Bangalore,Jan,Refrigerator,50,400,Yes
+H106,Bangalore,Apr,Refrigerator,52,416,Yes
+H013,Chennai,Jan,TV,96,768,Yes
+H067,Hyderabad,Apr,TV,22,176,No
+H095,Chennai,Feb,Refrigerator,61,488,No
+H003,Chennai,Feb,Washing Machine,51,408,No
+H073,Hyderabad,Jan,Fan,133,1064,Yes
+H029,Chennai,Mar,Refrigerator,141,1128,Yes
+H016,Bangalore,Jun,TV,148,1184,No
+H076,Chennai,Apr,Washing Machine,69,552,No
+H004,Chennai,May,TV,141,1128,Yes
+H088,Bangalore,Apr,TV,67,536,No
+H114,Hyderabad,Feb,TV,118,944,Yes
+H100,Bangalore,Jan,Washing Machine,55,440,Yes
+H086,Chennai,Apr,Fan,71,568,No
+H061,Chennai,Feb,AC,44,352,No
+H073,Hyderabad,Feb,TV,57,456,Yes
+H053,Chennai,Jan,Refrigerator,139,1112,No
+H041,Hyderabad,Apr,AC,70,560,Yes
+H120,Hyderabad,Apr,Washing Machine,41,328,Yes
+H058,Bangalore,Feb,TV,126,1008,Yes
+H051,Bangalore,Feb,TV,106,848,No
+H038,Chennai,Jun,Refrigerator,122,976,Yes
+H051,Hyderabad,Apr,AC,39,312,Yes
+H013,Bangalore,Apr,AC,50,400,No
+H117,Chennai,Jan,Fan,38,304,No
+H067,Bangalore,May,Refrigerator,89,712,Yes
+H115,Bangalore,May,Refrigerator,25,200,Yes
+H098,Chennai,Mar,Fan,20,160,Yes
+H001,Bangalore,Mar,TV,46,368,No
+H107,Chennai,Apr,Washing Machine,52,416,Yes
+H005,Chennai,Mar,Washing Machine,94,752,Yes
+H046,Chennai,Jun,Fan,54,432,No
+H096,Bangalore,Apr,Refrigerator,113,904,No
+H008,Bangalore,May,Refrigerator,75,600,No
+H112,Chennai,May,TV,25,200,No
+H113,Hyderabad,Jun,AC,129,1032,No
+H095,Bangalore,Feb,Fan,73,584,No
+H087,Chennai,Jun,Fan,83,664,Yes
+H061,Bangalore,Jan,AC,53,424,Yes
+H009,Bangalore,Apr,AC,84,672,No
+H083,Bangalore,Feb,Washing Machine,91,728,No
+H046,Chennai,Mar,Refrigerator,119,952,Yes
+H113,Chennai,May,Refrigerator,76,608,No
+H094,Bangalore,Mar,Fan,130,1040,Yes
+H025,Chennai,May,Fan,45,360,Yes
+H064,Hyderabad,May,Washing Machine,27,216,No
+H115,Hyderabad,Mar,TV,101,808,Yes
+H051,Bangalore,Apr,TV,76,608,No
+H077,Bangalore,Apr,TV,143,1144,Yes
+H090,Chennai,Apr,TV,129,1032,Yes
+H031,Chennai,Jun,Refrigerator,38,304,Yes
+H046,Chennai,Mar,Refrigerator,128,1024,Yes
+H060,Chennai,Feb,Washing Machine,43,344,Yes
+H119,Bangalore,Jun,TV,24,192,No
+H099,Bangalore,May,Refrigerator,143,1144,Yes
+H120,Bangalore,Mar,Washing Machine,56,448,No
+H016,Chennai,Feb,Fan,58,464,No
+H090,Bangalore,May,Fan,28,224,No
+H019,Chennai,Apr,AC,87,696,No
+H030,Chennai,Jan,Washing Machine,86,688,No
+H055,Chennai,Jan,AC,36,288,Yes
+H060,Bangalore,Jun,Refrigerator,88,704,No
+H110,Bangalore,Jan,Washing Machine,107,856,No
+H089,Bangalore,Mar,Washing Machine,36,288,Yes
+H109,Chennai,May,TV,68,544,Yes
+H009,Bangalore,Apr,Washing Machine,81,648,No
+H100,Chennai,Mar,Refrigerator,130,1040,No
+H063,Hyderabad,Apr,Washing Machine,122,976,Yes
+H049,Hyderabad,Apr,AC,132,1056,Yes
+H058,Chennai,Feb,Refrigerator,130,1040,Yes
+H012,Hyderabad,Jan,Washing Machine,88,704,No
+H058,Bangalore,Jan,Fan,119,952,No
+H017,Hyderabad,May,TV,46,368,No
+H014,Hyderabad,May,Washing Machine,94,752,No
+H089,Chennai,Feb,Fan,61,488,No
+H089,Hyderabad,Mar,AC,48,384,No
+H036,Bangalore,Jan,AC,48,384,Yes
+H072,Chennai,Jun,Washing Machine,139,1112,No
+H110,Hyderabad,Feb,TV,119,952,Yes
+H108,Chennai,May,TV,54,432,Yes
+H041,Bangalore,Jan,Fan,88,704,Yes
+H103,Chennai,Jan,Refrigerator,79,632,Yes
+H056,Chennai,Mar,Refrigerator,143,1144,Yes
+H079,Bangalore,Jun,Refrigerator,21,168,No
+H053,Hyderabad,Jun,AC,66,528,No
+H026,Chennai,Apr,Washing Machine,24,192,Yes
+H030,Hyderabad,Jun,TV,24,192,No
+H004,Bangalore,Jun,Washing Machine,45,360,Yes
+H116,Bangalore,Jun,AC,48,384,No
+H088,Bangalore,Mar,AC,117,936,No
+H102,Hyderabad,Feb,Fan,70,560,No
+H107,Chennai,Jan,AC,28,224,No
+H071,Hyderabad,Feb,Refrigerator,147,1176,No
+H085,Hyderabad,Feb,Washing Machine,124,992,Yes
+H091,Chennai,May,AC,53,424,Yes
+H026,Bangalore,Feb,Washing Machine,142,1136,No
+H078,Hyderabad,Mar,Refrigerator,110,880,No
+H088,Chennai,May,AC,52,416,Yes
+H012,Hyderabad,Jan,Fan,21,168,No
+H097,Chennai,Jan,Fan,94,752,Yes
+H026,Chennai,Apr,Refrigerator,35,280,Yes
+H082,Hyderabad,May,Fan,145,1160,Yes
+H080,Chennai,Mar,Washing Machine,97,776,No
+H051,Hyderabad,Jan,TV,48,384,Yes
+H112,Chennai,Mar,TV,71,568,No
+H021,Chennai,Jun,TV,93,744,No
+H001,Chennai,May,Refrigerator,69,552,No
+H051,Hyderabad,Jan,Fan,112,896,No
+H102,Bangalore,Jun,Refrigerator,48,384,Yes
+H006,Hyderabad,Jan,Refrigerator,71,568,Yes
+H031,Bangalore,Mar,Refrigerator,44,352,No
+H003,Bangalore,May,Refrigerator,133,1064,Yes
+H109,Chennai,Jun,Washing Machine,121,968,Yes
+H106,Chennai,May,TV,84,672,Yes
+H066,Hyderabad,Feb,TV,95,760,Yes
+H076,Bangalore,Feb,TV,37,296,Yes
+H025,Chennai,Mar,Fan,105,840,Yes
+H031,Hyderabad,Mar,AC,28,224,Yes
+H085,Chennai,Jun,Washing Machine,103,824,Yes
+H021,Bangalore,Jan,TV,70,560,Yes
+H061,Hyderabad,Feb,AC,108,864,No
+H009,Chennai,Apr,Refrigerator,32,256,No
+H078,Hyderabad,Mar,Washing Machine,50,400,Yes
+H057,Bangalore,Jan,Refrigerator,77,616,Yes
+H097,Hyderabad,Feb,Refrigerator,27,216,No
+H025,Chennai,Jun,Fan,69,552,Yes
+H014,Chennai,Mar,Washing Machine,101,808,No
+H026,Bangalore,Apr,Refrigerator,92,736,Yes
+H113,Hyderabad,Mar,Refrigerator,102,816,No
+H093,Bangalore,May,Washing Machine,43,344,No
+H111,Chennai,Apr,AC,25,200,No
+H120,Chennai,May,Fan,146,1168,No
+H089,Hyderabad,Apr,Washing Machine,143,1144,No
+H064,Chennai,May,Washing Machine,138,1104,Yes
+H095,Bangalore,Jun,Washing Machine,77,616,Yes
+H119,Hyderabad,Apr,TV,34,272,No
+H106,Hyderabad,Mar,Refrigerator,92,736,Yes
+H036,Bangalore,Apr,AC,68,544,No
+H038,Bangalore,Feb,Fan,40,320,No
+H043,Chennai,Apr,TV,103,824,Yes
+H093,Chennai,Jun,AC,91,728,No
+H005,Bangalore,Feb,AC,101,808,No
+H020,Hyderabad,May,TV,135,1080,No
+H087,Bangalore,Jun,Refrigerator,149,1192,Yes
+H055,Bangalore,Jun,AC,121,968,Yes
+H025,Chennai,Apr,Washing Machine,40,320,No
+H031,Bangalore,May,Fan,80,640,No
+H015,Chennai,May,Washing Machine,44,352,No
+H031,Hyderabad,Jun,Fan,66,528,No
+H014,Chennai,May,TV,68,544,No
+H053,Bangalore,Jan,TV,116,928,No
+H120,Hyderabad,Feb,TV,59,472,No
+H054,Bangalore,Jun,TV,24,192,Yes
+H040,Chennai,May,Fan,116,928,Yes
+H110,Chennai,Jun,TV,40,320,No
+H026,Hyderabad,Feb,Washing Machine,58,464,No
+H053,Bangalore,Feb,Refrigerator,25,200,No
+H076,Hyderabad,Mar,AC,75,600,No
+H117,Bangalore,Feb,TV,137,1096,Yes
+H065,Chennai,Jun,AC,79,632,No
+H112,Bangalore,Feb,Fan,47,376,Yes
+H120,Hyderabad,May,Fan,64,512,Yes
+H073,Chennai,May,Refrigerator,148,1184,Yes
+H049,Bangalore,Jan,Refrigerator,29,232,No
+H092,Bangalore,Jan,TV,103,824,No
+H082,Bangalore,Feb,TV,97,776,No
+H100,Hyderabad,May,AC,86,688,Yes
+H003,Chennai,Jan,Washing Machine,117,936,No
+H109,Bangalore,May,Fan,94,752,Yes
+H105,Bangalore,Apr,Washing Machine,146,1168,No
+H072,Bangalore,Jan,Refrigerator,75,600,Yes
+H066,Chennai,Jun,TV,69,552,No
+H012,Bangalore,Jan,TV,133,1064,No
+H076,Chennai,May,Refrigerator,125,1000,Yes
+H078,Chennai,Feb,Refrigerator,109,872,No
+H014,Hyderabad,Jan,Washing Machine,61,488,No
+H034,Hyderabad,Mar,AC,59,472,No
+H104,Hyderabad,May,Fan,131,1048,No
+H028,Bangalore,Feb,Fan,109,872,Yes
+H001,Hyderabad,Apr,Refrigerator,130,1040,No
+H011,Hyderabad,Mar,Fan,119,952,Yes
+H107,Bangalore,Apr,Refrigerator,78,624,No
+H106,Hyderabad,Apr,Fan,33,264,No
+H033,Bangalore,Jun,Washing Machine,75,600,No
+H048,Hyderabad,Jun,AC,24,192,No
+H093,Bangalore,Apr,TV,68,544,Yes
+H036,Hyderabad,Jun,Refrigerator,32,256,No
+H097,Hyderabad,May,Washing Machine,68,544,Yes
+H046,Bangalore,Jan,Refrigerator,40,320,No
+H056,Chennai,Feb,Washing Machine,42,336,Yes
+H051,Hyderabad,May,Fan,129,1032,No
+H080,Hyderabad,May,Refrigerator,92,736,No
+H040,Hyderabad,Apr,Refrigerator,138,1104,Yes
+H105,Chennai,Jan,TV,87,696,Yes
+H028,Chennai,Mar,Fan,148,1184,No
+H020,Chennai,Jan,AC,54,432,No
+H057,Chennai,Jun,AC,69,552,No
+H066,Chennai,Jan,Refrigerator,69,552,Yes
+H064,Bangalore,Jan,Fan,43,344,Yes
+H025,Bangalore,Jan,Fan,24,192,No
+H039,Chennai,Feb,AC,118,944,No
+H039,Bangalore,Feb,Fan,103,824,No
+H064,Bangalore,May,Refrigerator,42,336,No
+H021,Hyderabad,Feb,Refrigerator,82,656,Yes
+H032,Bangalore,Feb,Refrigerator,123,984,No
+H117,Chennai,Jan,Washing Machine,82,656,No
+H027,Hyderabad,Jan,Washing Machine,55,440,Yes
+H108,Bangalore,Jan,Refrigerator,143,1144,Yes
+H002,Bangalore,Apr,TV,56,448,No
+H015,Chennai,Jan,Refrigerator,61,488,No
+H070,Chennai,Apr,Fan,117,936,No
+H072,Hyderabad,Mar,AC,63,504,No
+H095,Bangalore,May,AC,61,488,No
+H054,Bangalore,May,Washing Machine,51,408,Yes
+H036,Hyderabad,Apr,TV,116,928,Yes
+H097,Chennai,Jun,Fan,32,256,Yes
+H073,Hyderabad,Jun,Washing Machine,58,464,No
+H059,Hyderabad,Jun,AC,147,1176,No
+H109,Bangalore,Jun,AC,58,464,Yes
+H021,Bangalore,Jan,TV,43,344,No
+H042,Hyderabad,Apr,AC,150,1200,No
+H103,Bangalore,Mar,TV,117,936,No
+H085,Chennai,Jan,Fan,70,560,No
+H046,Hyderabad,Feb,Fan,60,480,Yes
+H084,Bangalore,Mar,Refrigerator,131,1048,Yes
+H026,Bangalore,Apr,AC,64,512,No
+H050,Chennai,May,TV,149,1192,No
+H034,Hyderabad,Mar,Washing Machine,47,376,Yes
+H118,Bangalore,Apr,Washing Machine,68,544,Yes
+H093,Chennai,Jan,TV,76,608,No
+H024,Chennai,Jan,Fan,48,384,No
+H080,Bangalore,Jun,Refrigerator,51,408,No
+H003,Hyderabad,May,Fan,65,520,No
+H081,Bangalore,Feb,AC,78,624,Yes
+H094,Chennai,Apr,Refrigerator,21,168,No
+H018,Hyderabad,Apr,Refrigerator,59,472,No
+H005,Hyderabad,Mar,Washing Machine,113,904,No
+H106,Hyderabad,Jun,Fan,67,536,No
+H028,Bangalore,May,TV,119,952,Yes
+H067,Chennai,Feb,Refrigerator,136,1088,No
+H100,Bangalore,Jun,Washing Machine,73,584,No
+H114,Chennai,Feb,Refrigerator,23,184,Yes
+H116,Chennai,Feb,Fan,107,856,Yes
+H104,Chennai,Jun,Refrigerator,134,1072,Yes
+H110,Chennai,Jan,Fan,133,1064,No
+H043,Chennai,Feb,TV,20,160,No
+H073,Hyderabad,Apr,TV,35,280,Yes
+H035,Chennai,Jun,Fan,128,1024,No
+H059,Chennai,Apr,TV,135,1080,No
+H024,Hyderabad,Apr,AC,110,880,Yes
+H076,Chennai,Jun,TV,117,936,No
+H053,Chennai,Jan,Refrigerator,135,1080,Yes
+H111,Bangalore,Feb,AC,145,1160,Yes
+H006,Chennai,Apr,Refrigerator,146,1168,No
+H024,Hyderabad,Jan,AC,80,640,Yes
+H066,Hyderabad,Feb,TV,91,728,No
+H112,Hyderabad,Jan,Fan,36,288,No
+H038,Chennai,Apr,TV,123,984,No
+H024,Chennai,Apr,Refrigerator,29,232,Yes
+H117,Bangalore,Jan,TV,52,416,Yes
+H107,Hyderabad,Jan,Refrigerator,137,1096,No
+H020,Chennai,May,Fan,80,640,No
+H078,Hyderabad,Feb,Washing Machine,132,1056,No
+H006,Hyderabad,Feb,TV,135,1080,No
+H032,Chennai,Feb,AC,35,280,Yes
+H085,Chennai,Apr,Refrigerator,132,1056,Yes
+H051,Chennai,Feb,AC,56,448,Yes
+H101,Chennai,Jun,TV,101,808,No
+H112,Chennai,Apr,Fan,49,392,Yes
+H043,Bangalore,May,TV,87,696,No
+H081,Bangalore,May,Fan,145,1160,No
+H021,Chennai,May,Washing Machine,35,280,No
+H020,Hyderabad,May,Washing Machine,128,1024,No
+H008,Bangalore,Jan,TV,72,576,No
+H120,Chennai,May,Washing Machine,68,544,No
+H034,Bangalore,Feb,Washing Machine,89,712,Yes
+H089,Hyderabad,Feb,AC,55,440,No
+H098,Hyderabad,May,AC,51,408,No
+H048,Bangalore,Jun,Washing Machine,127,1016,Yes
+H007,Chennai,Jun,Fan,69,552,No
+H006,Bangalore,Jun,AC,102,816,No
+H109,Hyderabad,Feb,Washing Machine,35,280,Yes
+H017,Chennai,Jun,Fan,75,600,No
+H043,Chennai,Jan,Refrigerator,46,368,Yes
+H068,Chennai,Apr,TV,50,400,No
+H087,Chennai,Feb,Washing Machine,122,976,Yes
+H118,Chennai,May,Fan,44,352,No
+H038,Hyderabad,Feb,TV,29,232,No
+H044,Hyderabad,May,AC,88,704,No
+H115,Chennai,Feb,Refrigerator,133,1064,Yes
+H090,Bangalore,Feb,Fan,25,200,Yes
+H013,Bangalore,May,Washing Machine,45,360,No
+H033,Bangalore,Jun,Fan,34,272,No
+H015,Hyderabad,Mar,TV,20,160,Yes
+H102,Bangalore,Jun,TV,138,1104,No
+H104,Hyderabad,Apr,TV,58,464,No
+H112,Hyderabad,Feb,Washing Machine,52,416,No
+H119,Bangalore,Jan,AC,21,168,No
+H008,Chennai,Apr,AC,40,320,Yes
+H070,Chennai,May,Washing Machine,141,1128,No
+H031,Chennai,Mar,AC,57,456,Yes
+H035,Hyderabad,May,Washing Machine,72,576,No
+H012,Bangalore,Mar,Washing Machine,84,672,Yes
+H029,Bangalore,Feb,AC,135,1080,No
+H085,Bangalore,Jun,TV,82,656,Yes
+H095,Chennai,Jun,AC,130,1040,Yes
+H097,Hyderabad,Jun,Refrigerator,29,232,Yes
+H055,Bangalore,Mar,AC,89,712,No
+H046,Chennai,Mar,Washing Machine,147,1176,No
+H107,Hyderabad,Feb,Refrigerator,44,352,Yes
+H059,Bangalore,May,Refrigerator,23,184,No
+H057,Bangalore,Jun,Fan,107,856,Yes
+H111,Chennai,Apr,AC,119,952,Yes
+H011,Bangalore,Jun,AC,127,1016,No
+H030,Chennai,Apr,TV,86,688,Yes
+H083,Hyderabad,Mar,Refrigerator,102,816,Yes
+H093,Bangalore,Feb,Fan,141,1128,Yes
+H067,Chennai,Mar,TV,142,1136,No
+H025,Hyderabad,Feb,TV,50,400,Yes
+H013,Hyderabad,Feb,Fan,106,848,Yes
+H039,Chennai,Jun,Refrigerator,50,400,No
+H110,Chennai,May,Washing Machine,57,456,Yes
+H082,Hyderabad,Apr,Fan,115,920,Yes
+H029,Chennai,Apr,AC,131,1048,No
+H070,Chennai,Feb,Refrigerator,78,624,Yes
+H039,Chennai,May,Fan,34,272,No
+H027,Chennai,Feb,Refrigerator,119,952,No
+H048,Chennai,Jan,Fan,130,1040,Yes
+H111,Hyderabad,Feb,Refrigerator,118,944,Yes
+H009,Hyderabad,Apr,TV,23,184,No
+H049,Chennai,Feb,TV,131,1048,No
+H120,Hyderabad,Feb,TV,99,792,No
+H096,Hyderabad,Mar,Washing Machine,38,304,Yes
+H043,Bangalore,May,AC,147,1176,No
+H022,Chennai,Mar,Fan,55,440,Yes
+H068,Hyderabad,May,Washing Machine,124,992,No
+H022,Bangalore,Feb,Refrigerator,38,304,No
+H093,Hyderabad,Jun,TV,87,696,Yes
+H012,Bangalore,Mar,AC,51,408,Yes
+H048,Hyderabad,Jun,TV,50,400,No
+H061,Bangalore,Mar,Washing Machine,85,680,No
+H060,Hyderabad,Feb,TV,52,416,No
+H115,Bangalore,Apr,Washing Machine,56,448,No
+H022,Hyderabad,Jan,TV,25,200,No
+H106,Bangalore,Feb,TV,81,648,Yes
+H061,Chennai,Jun,Washing Machine,146,1168,No
+H102,Hyderabad,May,Fan,120,960,Yes
+H050,Hyderabad,Mar,Fan,89,712,No
+H048,Bangalore,Feb,AC,51,408,No
+H057,Hyderabad,Mar,Refrigerator,86,688,No
+H061,Hyderabad,Jan,Fan,93,744,No
+H033,Chennai,Jan,Washing Machine,81,648,No
+H010,Bangalore,May,AC,77,616,No
+H005,Hyderabad,Jan,Fan,26,208,Yes
+H105,Chennai,Jun,TV,112,896,Yes
+H100,Chennai,Apr,Fan,99,792,No
+H012,Hyderabad,May,TV,143,1144,No
+H073,Hyderabad,Jun,Fan,20,160,Yes
+H057,Hyderabad,Feb,Washing Machine,68,544,No
+H094,Hyderabad,Jan,TV,78,624,No
+H059,Chennai,Mar,TV,128,1024,No
+H084,Bangalore,Mar,Washing Machine,98,784,No
+H044,Bangalore,May,AC,115,920,No
+H052,Chennai,Jun,AC,98,784,No
+H023,Chennai,May,Refrigerator,51,408,No
+H058,Hyderabad,Jan,Washing Machine,64,512,Yes
+H079,Hyderabad,Mar,AC,114,912,Yes
+H073,Hyderabad,Apr,AC,90,720,No
+H016,Chennai,Mar,Refrigerator,78,624,No
+H101,Bangalore,May,Fan,139,1112,No
+H023,Chennai,Mar,Fan,113,904,No
+H120,Chennai,Jan,TV,125,1000,No
+H053,Hyderabad,Jun,Washing Machine,111,888,No
+H005,Hyderabad,Feb,Refrigerator,123,984,Yes
+H061,Bangalore,May,Refrigerator,58,464,Yes
+H005,Chennai,Jun,TV,120,960,Yes
+H101,Bangalore,May,Fan,93,744,No
+H071,Chennai,Jun,Washing Machine,131,1048,Yes
+H003,Bangalore,Jun,Washing Machine,124,992,No
+H112,Chennai,May,Refrigerator,80,640,Yes
+H029,Hyderabad,Mar,TV,126,1008,No
+H093,Hyderabad,Jun,Fan,73,584,No
+H076,Hyderabad,Feb,TV,96,768,No
+H005,Chennai,Feb,Washing Machine,85,680,No
+H080,Hyderabad,Mar,AC,131,1048,Yes
+H106,Chennai,Jan,Refrigerator,138,1104,Yes
+H060,Bangalore,Jan,Fan,58,464,No
+H079,Hyderabad,Mar,Fan,120,960,Yes
